@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cedd15b856e4441b8bc7d6095003d393/artifacts
+end_time: 1724807945966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cedd15b856e4441b8bc7d6095003d393
+run_name: unique-donkey-520
+run_uuid: cedd15b856e4441b8bc7d6095003d393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724807942953
+status: 4
+tags: []
+user_id: gerardolara

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/75ec034472474b8db31c3a07f3cea479/artifacts
+end_time: 1725417513354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75ec034472474b8db31c3a07f3cea479
+run_name: valuable-stork-649
+run_uuid: 75ec034472474b8db31c3a07f3cea479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725417504073
+status: 4
+tags: []
+user_id: gerardolara

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d0bef75f17de4d2fbc117ba35cca809e/artifacts
+end_time: 1724984547169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0bef75f17de4d2fbc117ba35cca809e
+run_name: whimsical-bee-943
+run_uuid: d0bef75f17de4d2fbc117ba35cca809e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724984248425
+status: 4
+tags: []
+user_id: gerardolara

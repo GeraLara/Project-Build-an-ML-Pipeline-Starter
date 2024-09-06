@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b848a2fa519d4ff3a29634e6fbefdf75/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b848a2fa519d4ff3a29634e6fbefdf75
+run_name: gentle-stork-321
+run_uuid: b848a2fa519d4ff3a29634e6fbefdf75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724984093988
+status: 1
+tags: []
+user_id: gerardolara

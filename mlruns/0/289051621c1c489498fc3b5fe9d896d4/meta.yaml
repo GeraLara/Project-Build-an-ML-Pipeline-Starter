@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/289051621c1c489498fc3b5fe9d896d4/artifacts
+end_time: 1724986100134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 289051621c1c489498fc3b5fe9d896d4
+run_name: upbeat-snake-686
+run_uuid: 289051621c1c489498fc3b5fe9d896d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724985833522
+status: 4
+tags: []
+user_id: gerardolara

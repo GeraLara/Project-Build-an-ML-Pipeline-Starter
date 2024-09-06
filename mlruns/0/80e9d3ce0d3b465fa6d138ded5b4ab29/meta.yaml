@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/80e9d3ce0d3b465fa6d138ded5b4ab29/artifacts
+end_time: 1725411824013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80e9d3ce0d3b465fa6d138ded5b4ab29
+run_name: indecisive-skunk-659
+run_uuid: 80e9d3ce0d3b465fa6d138ded5b4ab29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725411822786
+status: 4
+tags: []
+user_id: gerardolara

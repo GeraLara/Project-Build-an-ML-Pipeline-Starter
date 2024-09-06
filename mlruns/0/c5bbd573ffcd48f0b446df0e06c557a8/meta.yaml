@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c5bbd573ffcd48f0b446df0e06c557a8/artifacts
+end_time: 1725411384871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5bbd573ffcd48f0b446df0e06c557a8
+run_name: capable-wren-647
+run_uuid: c5bbd573ffcd48f0b446df0e06c557a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725411348967
+status: 4
+tags: []
+user_id: gerardolara

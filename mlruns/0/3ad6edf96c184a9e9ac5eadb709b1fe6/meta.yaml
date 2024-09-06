@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3ad6edf96c184a9e9ac5eadb709b1fe6/artifacts
+end_time: 1724985936914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ad6edf96c184a9e9ac5eadb709b1fe6
+run_name: awesome-hound-582
+run_uuid: 3ad6edf96c184a9e9ac5eadb709b1fe6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724985900614
+status: 4
+tags: []
+user_id: gerardolara

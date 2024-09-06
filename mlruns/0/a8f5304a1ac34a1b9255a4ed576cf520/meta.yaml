@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a8f5304a1ac34a1b9255a4ed576cf520/artifacts
+end_time: 1725410739759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8f5304a1ac34a1b9255a4ed576cf520
+run_name: capricious-pig-529
+run_uuid: a8f5304a1ac34a1b9255a4ed576cf520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725410686995
+status: 4
+tags: []
+user_id: gerardolara

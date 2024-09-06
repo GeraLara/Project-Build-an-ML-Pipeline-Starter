@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/99b287a6ca744467ab22365c4617d23e/artifacts
+end_time: 1724986099911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99b287a6ca744467ab22365c4617d23e
+run_name: abundant-auk-451
+run_uuid: 99b287a6ca744467ab22365c4617d23e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724986036591
+status: 4
+tags: []
+user_id: gerardolara

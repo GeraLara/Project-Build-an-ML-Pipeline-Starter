@@ -1,0 +1,10 @@
+2024-08-28 22:26:25,311 Minimum price: 10, Maximum price: 350
+2024-08-28 22:26:25,322 Preparing sklearn pipeline
+Traceback (most recent call last):
+  File "/Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 297, in <module>
+    go(args)
+  File "/Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 69, in go
+    sk_pipe, processed_features = get_inference_pipeline(rf_config, args.max_tfidf_features)
+  File "/Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 169, in get_inference_pipeline
+    sklearn.impute.SimpleImputer(strategy="most_frequent"),
+NameError: name 'sklearn' is not defined

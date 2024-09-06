@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/294d3925858b4851911b9e693f62113e/artifacts
+end_time: 1724809755899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 294d3925858b4851911b9e693f62113e
+run_name: serious-ray-819
+run_uuid: 294d3925858b4851911b9e693f62113e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724809754925
+status: 4
+tags: []
+user_id: gerardolara

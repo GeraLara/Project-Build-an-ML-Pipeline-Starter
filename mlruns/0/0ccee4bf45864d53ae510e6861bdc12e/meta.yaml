@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0ccee4bf45864d53ae510e6861bdc12e/artifacts
+end_time: 1724934378916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ccee4bf45864d53ae510e6861bdc12e
+run_name: mysterious-ape-416
+run_uuid: 0ccee4bf45864d53ae510e6861bdc12e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724934368820
+status: 4
+tags: []
+user_id: gerardolara

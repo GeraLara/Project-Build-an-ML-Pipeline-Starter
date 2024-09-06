@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6a3a2c9ebd04493c803343f93246d35a/artifacts
+end_time: 1725415778744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a3a2c9ebd04493c803343f93246d35a
+run_name: vaunted-squid-739
+run_uuid: 6a3a2c9ebd04493c803343f93246d35a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725415775043
+status: 4
+tags: []
+user_id: gerardolara

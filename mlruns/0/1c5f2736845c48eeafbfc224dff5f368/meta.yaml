@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1c5f2736845c48eeafbfc224dff5f368/artifacts
+end_time: 1725591755788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c5f2736845c48eeafbfc224dff5f368
+run_name: rebellious-pug-736
+run_uuid: 1c5f2736845c48eeafbfc224dff5f368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725591745803
+status: 4
+tags: []
+user_id: gerardolara

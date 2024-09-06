@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/06195e1eabdf4b05b44410ba369124b3/artifacts
+end_time: 1724807746506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06195e1eabdf4b05b44410ba369124b3
+run_name: gaudy-croc-418
+run_uuid: 06195e1eabdf4b05b44410ba369124b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724807742565
+status: 4
+tags: []
+user_id: gerardolara

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/77b900703b75474ca775db74b9e78e6f/artifacts
+end_time: 1724810795091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77b900703b75474ca775db74b9e78e6f
+run_name: invincible-newt-391
+run_uuid: 77b900703b75474ca775db74b9e78e6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724810773072
+status: 4
+tags: []
+user_id: gerardolara

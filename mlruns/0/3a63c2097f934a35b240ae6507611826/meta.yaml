@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3a63c2097f934a35b240ae6507611826/artifacts
+end_time: 1725591251614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a63c2097f934a35b240ae6507611826
+run_name: mysterious-hog-194
+run_uuid: 3a63c2097f934a35b240ae6507611826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725591233984
+status: 4
+tags: []
+user_id: gerardolara

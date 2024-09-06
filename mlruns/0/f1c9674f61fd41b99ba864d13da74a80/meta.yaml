@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f1c9674f61fd41b99ba864d13da74a80/artifacts
+end_time: 1724984433941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1c9674f61fd41b99ba864d13da74a80
+run_name: puzzled-worm-564
+run_uuid: f1c9674f61fd41b99ba864d13da74a80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724984365444
+status: 4
+tags: []
+user_id: gerardolara

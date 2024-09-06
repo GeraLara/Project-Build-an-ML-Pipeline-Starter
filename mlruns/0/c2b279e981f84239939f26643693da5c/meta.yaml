@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c2b279e981f84239939f26643693da5c/artifacts
+end_time: 1725419273372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2b279e981f84239939f26643693da5c
+run_name: likeable-goose-855
+run_uuid: c2b279e981f84239939f26643693da5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725419259673
+status: 4
+tags: []
+user_id: gerardolara

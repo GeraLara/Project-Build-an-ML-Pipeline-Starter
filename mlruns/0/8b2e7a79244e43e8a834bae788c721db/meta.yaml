@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8b2e7a79244e43e8a834bae788c721db/artifacts
+end_time: 1725416144660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b2e7a79244e43e8a834bae788c721db
+run_name: treasured-rat-219
+run_uuid: 8b2e7a79244e43e8a834bae788c721db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725416124294
+status: 4
+tags: []
+user_id: gerardolara

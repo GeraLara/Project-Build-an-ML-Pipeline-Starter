@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2b3dd4f6029741f7938fdcca1635a30b/artifacts
+end_time: 1724980632838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b3dd4f6029741f7938fdcca1635a30b
+run_name: debonair-smelt-793
+run_uuid: 2b3dd4f6029741f7938fdcca1635a30b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724980519687
+status: 4
+tags: []
+user_id: gerardolara

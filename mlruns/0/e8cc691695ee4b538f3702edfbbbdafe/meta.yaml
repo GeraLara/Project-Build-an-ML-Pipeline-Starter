@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e8cc691695ee4b538f3702edfbbbdafe/artifacts
+end_time: 1724976219331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8cc691695ee4b538f3702edfbbbdafe
+run_name: legendary-mare-742
+run_uuid: e8cc691695ee4b538f3702edfbbbdafe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724976210050
+status: 4
+tags: []
+user_id: gerardolara

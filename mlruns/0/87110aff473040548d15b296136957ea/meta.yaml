@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/87110aff473040548d15b296136957ea/artifacts
+end_time: 1724980622633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87110aff473040548d15b296136957ea
+run_name: traveling-fish-229
+run_uuid: 87110aff473040548d15b296136957ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724980613071
+status: 4
+tags: []
+user_id: gerardolara

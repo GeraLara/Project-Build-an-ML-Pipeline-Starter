@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7771d88619c64ed1a465259029a11cc4/artifacts
+end_time: 1724809821776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7771d88619c64ed1a465259029a11cc4
+run_name: zealous-crab-567
+run_uuid: 7771d88619c64ed1a465259029a11cc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724809798290
+status: 4
+tags: []
+user_id: gerardolara

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f68148d996924ce8bc9dfc37b5ed3b0e/artifacts
+end_time: 1724804329501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f68148d996924ce8bc9dfc37b5ed3b0e
+run_name: wise-dolphin-856
+run_uuid: f68148d996924ce8bc9dfc37b5ed3b0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724804328361
+status: 4
+tags: []
+user_id: gerardolara

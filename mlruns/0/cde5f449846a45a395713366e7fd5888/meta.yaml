@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cde5f449846a45a395713366e7fd5888/artifacts
+end_time: 1725416962729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cde5f449846a45a395713366e7fd5888
+run_name: peaceful-midge-340
+run_uuid: cde5f449846a45a395713366e7fd5888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725416953132
+status: 4
+tags: []
+user_id: gerardolara

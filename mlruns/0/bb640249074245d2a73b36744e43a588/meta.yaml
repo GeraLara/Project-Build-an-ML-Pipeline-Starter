@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bb640249074245d2a73b36744e43a588/artifacts
+end_time: 1725413095943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb640249074245d2a73b36744e43a588
+run_name: learned-cub-282
+run_uuid: bb640249074245d2a73b36744e43a588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725413021412
+status: 3
+tags: []
+user_id: gerardolara

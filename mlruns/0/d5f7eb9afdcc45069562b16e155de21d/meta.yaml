@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d5f7eb9afdcc45069562b16e155de21d/artifacts
+end_time: 1724902293658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5f7eb9afdcc45069562b16e155de21d
+run_name: polite-worm-692
+run_uuid: d5f7eb9afdcc45069562b16e155de21d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724902246821
+status: 4
+tags: []
+user_id: gerardolara

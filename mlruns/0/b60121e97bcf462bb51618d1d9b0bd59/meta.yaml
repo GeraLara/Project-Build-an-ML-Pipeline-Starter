@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b60121e97bcf462bb51618d1d9b0bd59/artifacts
+end_time: 1724805594707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b60121e97bcf462bb51618d1d9b0bd59
+run_name: powerful-bear-774
+run_uuid: b60121e97bcf462bb51618d1d9b0bd59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724805593793
+status: 4
+tags: []
+user_id: gerardolara

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a2a42988014e4e289d105b797edda49c/artifacts
+end_time: 1725416829738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2a42988014e4e289d105b797edda49c
+run_name: valuable-lamb-534
+run_uuid: a2a42988014e4e289d105b797edda49c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725416820007
+status: 4
+tags: []
+user_id: gerardolara

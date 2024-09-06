@@ -1,0 +1,48 @@
+{
+    "os": "macOS-14.5-arm64-arm-64bit",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-08-27T02:11:24.723778",
+    "startedAt": "2024-08-27T02:11:24.341279",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "eda.ipynb",
+    "codePathLocal": "eda.ipynb",
+    "root": "/Users/gerardolara/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/GeraLara/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "0936351046db1e8e7587aa16f516b26a9374b3da"
+    },
+    "email": "gerrythepigeon14@gmail.com",
+    "host": "Gerardos-MacBook-Pro.local",
+    "username": "gerardolara",
+    "executable": "/Users/gerardolara/anaconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3228,
+        "min": 600,
+        "max": 3228
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3228,
+            "min": 600,
+            "max": 3228
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 326.30345916748047
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

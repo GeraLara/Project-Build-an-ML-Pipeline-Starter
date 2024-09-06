@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fd352fd0853245a9aed2228778aeafdc/artifacts
+end_time: 1724723354496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd352fd0853245a9aed2228778aeafdc
+run_name: sassy-sponge-155
+run_uuid: fd352fd0853245a9aed2228778aeafdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724723194490
+status: 3
+tags: []
+user_id: gerardolara

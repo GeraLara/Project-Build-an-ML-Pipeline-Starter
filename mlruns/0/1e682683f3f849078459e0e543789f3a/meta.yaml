@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1e682683f3f849078459e0e543789f3a/artifacts
+end_time: 1724808259637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e682683f3f849078459e0e543789f3a
+run_name: nimble-sponge-151
+run_uuid: 1e682683f3f849078459e0e543789f3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724808242521
+status: 3
+tags: []
+user_id: gerardolara

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a832c0a5d4fa490ca3522b8c48578c7b/artifacts
+end_time: 1725418361004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a832c0a5d4fa490ca3522b8c48578c7b
+run_name: bold-koi-644
+run_uuid: a832c0a5d4fa490ca3522b8c48578c7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725418344870
+status: 4
+tags: []
+user_id: gerardolara

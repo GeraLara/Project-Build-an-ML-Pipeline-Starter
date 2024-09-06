@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/48022292b36d480eb4a03b0ff7ad38dc/artifacts
+end_time: 1724807863852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48022292b36d480eb4a03b0ff7ad38dc
+run_name: nimble-mare-716
+run_uuid: 48022292b36d480eb4a03b0ff7ad38dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724807860854
+status: 4
+tags: []
+user_id: gerardolara

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e2f0d69404a142388f105543bca6c773/artifacts
+end_time: 1725418835698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2f0d69404a142388f105543bca6c773
+run_name: learned-wasp-445
+run_uuid: e2f0d69404a142388f105543bca6c773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725418822240
+status: 4
+tags: []
+user_id: gerardolara

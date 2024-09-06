@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6f1883deb4504187936d72474c9df898/artifacts
+end_time: 1724979464774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f1883deb4504187936d72474c9df898
+run_name: painted-snake-621
+run_uuid: 6f1883deb4504187936d72474c9df898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724979455479
+status: 4
+tags: []
+user_id: gerardolara

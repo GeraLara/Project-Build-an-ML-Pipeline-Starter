@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/289bee84cc7d4f3b946201df03b20743/artifacts
+end_time: 1724986577226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 289bee84cc7d4f3b946201df03b20743
+run_name: bright-pig-574
+run_uuid: 289bee84cc7d4f3b946201df03b20743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724986539909
+status: 4
+tags: []
+user_id: gerardolara

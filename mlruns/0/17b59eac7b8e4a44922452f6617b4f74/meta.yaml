@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/17b59eac7b8e4a44922452f6617b4f74/artifacts
+end_time: 1725417513577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17b59eac7b8e4a44922452f6617b4f74
+run_name: unruly-pug-969
+run_uuid: 17b59eac7b8e4a44922452f6617b4f74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725417500807
+status: 4
+tags: []
+user_id: gerardolara

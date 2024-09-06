@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dc89c7adbc114a3aa54cf1e6a0fc8251/artifacts
+end_time: 1725418426191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc89c7adbc114a3aa54cf1e6a0fc8251
+run_name: shivering-wasp-58
+run_uuid: dc89c7adbc114a3aa54cf1e6a0fc8251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725418416970
+status: 4
+tags: []
+user_id: gerardolara

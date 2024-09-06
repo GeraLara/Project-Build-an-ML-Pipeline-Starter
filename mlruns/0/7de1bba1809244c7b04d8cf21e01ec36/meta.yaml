@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7de1bba1809244c7b04d8cf21e01ec36/artifacts
+end_time: 1724980612985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7de1bba1809244c7b04d8cf21e01ec36
+run_name: invincible-gnu-157
+run_uuid: 7de1bba1809244c7b04d8cf21e01ec36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724980603658
+status: 4
+tags: []
+user_id: gerardolara

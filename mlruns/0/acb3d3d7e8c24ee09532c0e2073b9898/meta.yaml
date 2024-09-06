@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/acb3d3d7e8c24ee09532c0e2073b9898/artifacts
+end_time: 1725418073872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acb3d3d7e8c24ee09532c0e2073b9898
+run_name: abundant-steed-924
+run_uuid: acb3d3d7e8c24ee09532c0e2073b9898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725418061012
+status: 4
+tags: []
+user_id: gerardolara

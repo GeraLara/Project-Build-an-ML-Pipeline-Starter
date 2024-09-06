@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b91bedd0c7df424bbe8a4d91d6de157d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b91bedd0c7df424bbe8a4d91d6de157d
+run_name: overjoyed-crab-944
+run_uuid: b91bedd0c7df424bbe8a4d91d6de157d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724810729985
+status: 1
+tags: []
+user_id: gerardolara

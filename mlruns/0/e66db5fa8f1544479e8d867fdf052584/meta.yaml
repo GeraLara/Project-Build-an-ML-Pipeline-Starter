@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e66db5fa8f1544479e8d867fdf052584/artifacts
+end_time: 1724984546932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e66db5fa8f1544479e8d867fdf052584
+run_name: classy-shrike-420
+run_uuid: e66db5fa8f1544479e8d867fdf052584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724984474075
+status: 4
+tags: []
+user_id: gerardolara

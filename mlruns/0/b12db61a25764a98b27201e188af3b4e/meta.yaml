@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b12db61a25764a98b27201e188af3b4e/artifacts
+end_time: 1725416144429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b12db61a25764a98b27201e188af3b4e
+run_name: handsome-loon-266
+run_uuid: b12db61a25764a98b27201e188af3b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725416127707
+status: 4
+tags: []
+user_id: gerardolara

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8d15a9eaf5344496b7da28382cb8352f/artifacts
+end_time: 1724807945752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d15a9eaf5344496b7da28382cb8352f
+run_name: kindly-elk-682
+run_uuid: 8d15a9eaf5344496b7da28382cb8352f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724807944879
+status: 4
+tags: []
+user_id: gerardolara

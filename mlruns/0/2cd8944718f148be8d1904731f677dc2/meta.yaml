@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2cd8944718f148be8d1904731f677dc2/artifacts
+end_time: 1724902019817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cd8944718f148be8d1904731f677dc2
+run_name: wistful-zebra-955
+run_uuid: 2cd8944718f148be8d1904731f677dc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724901925330
+status: 4
+tags: []
+user_id: gerardolara
