@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b1e49d958c9b43d199d2912a1bec1d15/artifacts
+end_time: 1725924018524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1e49d958c9b43d199d2912a1bec1d15
+run_name: carefree-rat-47
+run_uuid: b1e49d958c9b43d199d2912a1bec1d15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725923936402
+status: 3
+tags: []
+user_id: gerardolara
