@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7bdc195e3bc94714bc99d9cfe12f0471/artifacts
+end_time: 1725931704525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bdc195e3bc94714bc99d9cfe12f0471
+run_name: rogue-rat-380
+run_uuid: 7bdc195e3bc94714bc99d9cfe12f0471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725931694406
+status: 3
+tags: []
+user_id: gerardolara

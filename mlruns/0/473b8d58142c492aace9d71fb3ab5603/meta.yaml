@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/473b8d58142c492aace9d71fb3ab5603/artifacts
+end_time: 1725931394857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 473b8d58142c492aace9d71fb3ab5603
+run_name: skittish-lamb-417
+run_uuid: 473b8d58142c492aace9d71fb3ab5603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725931385751
+status: 4
+tags: []
+user_id: gerardolara
