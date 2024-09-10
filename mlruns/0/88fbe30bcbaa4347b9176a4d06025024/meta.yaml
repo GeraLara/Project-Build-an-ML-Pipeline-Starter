@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/88fbe30bcbaa4347b9176a4d06025024/artifacts
+end_time: 1725932651139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88fbe30bcbaa4347b9176a4d06025024
+run_name: respected-snipe-973
+run_uuid: 88fbe30bcbaa4347b9176a4d06025024
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725932641968
+status: 4
+tags: []
+user_id: gerardolara

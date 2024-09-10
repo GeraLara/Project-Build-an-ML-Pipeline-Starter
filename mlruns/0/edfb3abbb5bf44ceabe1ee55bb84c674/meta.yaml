@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/edfb3abbb5bf44ceabe1ee55bb84c674/artifacts
+end_time: 1725932651325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edfb3abbb5bf44ceabe1ee55bb84c674
+run_name: rogue-crane-333
+run_uuid: edfb3abbb5bf44ceabe1ee55bb84c674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725932638557
+status: 4
+tags: []
+user_id: gerardolara
