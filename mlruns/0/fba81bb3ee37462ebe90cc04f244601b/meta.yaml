@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fba81bb3ee37462ebe90cc04f244601b/artifacts
+end_time: 1725925147265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fba81bb3ee37462ebe90cc04f244601b
+run_name: brawny-auk-777
+run_uuid: fba81bb3ee37462ebe90cc04f244601b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725925134921
+status: 3
+tags: []
+user_id: gerardolara

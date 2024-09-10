@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c53befeaf71b415ab2a99fb0a6eb5caf/artifacts
+end_time: 1725927327531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c53befeaf71b415ab2a99fb0a6eb5caf
+run_name: invincible-hound-354
+run_uuid: c53befeaf71b415ab2a99fb0a6eb5caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725927267798
+status: 3
+tags: []
+user_id: gerardolara

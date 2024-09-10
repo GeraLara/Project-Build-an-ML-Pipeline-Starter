@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a72a0e760f9d4e93bf131add351169d8/artifacts
+end_time: 1725924931373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a72a0e760f9d4e93bf131add351169d8
+run_name: valuable-steed-772
+run_uuid: a72a0e760f9d4e93bf131add351169d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725924916890
+status: 4
+tags: []
+user_id: gerardolara
