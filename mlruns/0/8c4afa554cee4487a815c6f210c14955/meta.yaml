@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8c4afa554cee4487a815c6f210c14955/artifacts
+end_time: 1726355645998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c4afa554cee4487a815c6f210c14955
+run_name: bouncy-smelt-292
+run_uuid: 8c4afa554cee4487a815c6f210c14955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726355600849
+status: 4
+tags: []
+user_id: gerardolara
