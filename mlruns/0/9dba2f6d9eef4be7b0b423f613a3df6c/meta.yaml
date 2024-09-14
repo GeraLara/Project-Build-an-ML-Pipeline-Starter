@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9dba2f6d9eef4be7b0b423f613a3df6c/artifacts
+end_time: 1726356554966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dba2f6d9eef4be7b0b423f613a3df6c
+run_name: calm-hog-243
+run_uuid: 9dba2f6d9eef4be7b0b423f613a3df6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726356545004
+status: 3
+tags: []
+user_id: gerardolara

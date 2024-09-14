@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dd19b2a1920c44f7ad0fd99e6f1bfe4e/artifacts
+end_time: 1726356640920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd19b2a1920c44f7ad0fd99e6f1bfe4e
+run_name: sedate-shark-209
+run_uuid: dd19b2a1920c44f7ad0fd99e6f1bfe4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726356577767
+status: 3
+tags: []
+user_id: gerardolara

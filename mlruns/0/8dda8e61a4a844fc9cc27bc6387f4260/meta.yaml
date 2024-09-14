@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8dda8e61a4a844fc9cc27bc6387f4260/artifacts
+end_time: 1726356795510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dda8e61a4a844fc9cc27bc6387f4260
+run_name: likeable-trout-674
+run_uuid: 8dda8e61a4a844fc9cc27bc6387f4260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726356540392
+status: 3
+tags: []
+user_id: gerardolara

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/af1bada1ae72495888b9d7cf79d65539/artifacts
+end_time: 1726356795399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af1bada1ae72495888b9d7cf79d65539
+run_name: gaudy-cow-833
+run_uuid: af1bada1ae72495888b9d7cf79d65539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726356640945
+status: 3
+tags: []
+user_id: gerardolara
