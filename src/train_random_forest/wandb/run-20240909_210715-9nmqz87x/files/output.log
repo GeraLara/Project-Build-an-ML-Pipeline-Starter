@@ -1,0 +1,21 @@
+2024-09-09 21:07:17,445 Minimum price: 10, Maximum price: 350
+2024-09-09 21:07:17,457 Preparing sklearn pipeline
+2024-09-09 21:07:17,457 Fitting
+2024-09-09 21:07:40,259 Scoring
+2024-09-09 21:07:40,320 Score: 0.5339406885517419
+2024-09-09 21:07:40,320 MAE: 33.565065789473685
+2024-09-09 21:07:40,320 Exporting model
+Traceback (most recent call last):
+  File "/Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 298, in <module>
+    go(args)
+  File "/Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 100, in go
+    mlflow.sklearn.save_model(
+  File "/Users/gerardolara/anaconda3/envs/mlflow-dcbab6ef07d7f183f06b6d6e825e4ef04af86e98/lib/python3.9/site-packages/mlflow/sklearn/__init__.py", line 288, in save_model
+    mlflow_model.save(os.path.join(path, MLMODEL_FILE_NAME))
+  File "/Users/gerardolara/anaconda3/envs/mlflow-dcbab6ef07d7f183f06b6d6e825e4ef04af86e98/lib/python3.9/site-packages/mlflow/models/model.py", line 380, in save
+    self.to_yaml(out)
+  File "/Users/gerardolara/anaconda3/envs/mlflow-dcbab6ef07d7f183f06b6d6e825e4ef04af86e98/lib/python3.9/site-packages/mlflow/models/model.py", line 368, in to_yaml
+    return yaml.safe_dump(self.to_dict(), stream=stream, default_flow_style=False)
+  File "/Users/gerardolara/anaconda3/envs/mlflow-dcbab6ef07d7f183f06b6d6e825e4ef04af86e98/lib/python3.9/site-packages/mlflow/models/model.py", line 357, in to_dict
+    res["signature"] = self.signature.to_dict()
+AttributeError: 'bool' object has no attribute 'to_dict'

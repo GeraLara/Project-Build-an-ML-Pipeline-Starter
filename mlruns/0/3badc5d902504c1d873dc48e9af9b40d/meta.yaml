@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3badc5d902504c1d873dc48e9af9b40d/artifacts
+end_time: 1726350970815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3badc5d902504c1d873dc48e9af9b40d
+run_name: bouncy-horse-326
+run_uuid: 3badc5d902504c1d873dc48e9af9b40d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726350925803
+status: 4
+tags: []
+user_id: gerardolara

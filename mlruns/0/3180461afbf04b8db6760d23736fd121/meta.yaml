@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3180461afbf04b8db6760d23736fd121/artifacts
+end_time: 1726353076470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3180461afbf04b8db6760d23736fd121
+run_name: auspicious-ray-503
+run_uuid: 3180461afbf04b8db6760d23736fd121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726353039768
+status: 3
+tags: []
+user_id: gerardolara

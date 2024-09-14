@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gerardolara/Project-Build-an-ML-Pipeline-Starter/mlruns/0/db84f7a60eb940598ead509c80f8c03d/artifacts
+end_time: 1726353076373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db84f7a60eb940598ead509c80f8c03d
+run_name: gregarious-owl-531
+run_uuid: db84f7a60eb940598ead509c80f8c03d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726353041347
+status: 3
+tags: []
+user_id: gerardolara
